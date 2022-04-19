@@ -11,3 +11,12 @@
    2. black -> #000
    3. url("./file.png") -> url(./file.png)
 5. Output string
+
+## Todo
+- [ ] Tokeniser
+- [ ] Lexical analyser
+- [ ] Minifier
+
+## Usage
+1. Run with `node .`
+2. View output in /json
