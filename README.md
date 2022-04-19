@@ -1,5 +1,5 @@
 # CSS Parser in JavaScript
-## Steps
+## Algorithm Steps
 1. Tokenise string
 2. Remove unneeded whitespace and chars
    1. { background: black; color: blue; } -> {background:black;color:blue}
@@ -14,7 +14,7 @@
 
 ## Todo
 - [ ] Tokeniser
-- [ ] Lexical analyser
+- [ ] Property analyser
 - [ ] Minifier
 
 ## Usage
